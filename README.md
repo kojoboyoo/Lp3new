@@ -68,3 +68,6 @@ In conclusion, this Store Sales Forecasting project has showcased the power of t
 | Project |	Name |	Published Article |	Deployed App |
 | ---- | -----| ----- | ---- |
 | LP3	| Regression_Analysis_SSP_LP3 |	[Time series LP3](https://medium.com/@eadoe97/predicting-favoritas-future-a-regression-analysis-approach-to-sales-prediction-79692378793f) | [Power BI Deployment](https://app.powerbi.com/groups/me/reports/9315022f-bf70-41c9-aedb-1ce535e07ec0/ReportSection?experience=power-bi) |
+
+
+follow me on linkedin - https://www.linkedin.com/pulse/analyzing-impact-external-factors-retail-store-sales-taylor-nketiah%3FtrackingId=lSKuchcpqQpQShUVuWT7FA%253D%253D/?trackingId=lSKuchcpqQpQShUVuWT7FA%3D%3D
